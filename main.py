@@ -18,8 +18,6 @@ def main():
             f.write("\n127.0.0.1 www.facebook.com")
             f.write("\n127.0.0.1 instagram.com")
             f.write("\n127.0.0.1 www.instagram.com")
-            f.write("\n127.0.0.1 twitter.com")
-            f.write("\n127.0.0.1 www.twitter.com")
 
 if __name__ == '__main__':
     if is_admin():
@@ -34,5 +32,3 @@ if __name__ == '__main__':
 # 127.0.0.1 www.facebook.com
 # 127.0.0.1 instagram.com
 # 127.0.0.1 www.instagram.com
-# 127.0.0.1 twitter.com
-# 127.0.0.1 www.twitter.com
